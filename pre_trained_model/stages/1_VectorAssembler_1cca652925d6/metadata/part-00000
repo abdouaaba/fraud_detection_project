@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1698006605522,"sparkVersion":"3.5.0","uid":"VectorAssembler_1cca652925d6","paramMap":{"inputCols":["amount","oldbalanceOrg","newbalanceOrig","oldbalanceDest","newbalanceDest","type_index"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_1cca652925d6__output"}}
