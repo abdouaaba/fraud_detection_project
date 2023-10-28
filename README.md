@@ -8,6 +8,7 @@ This project focuses on real-time fraud detection in financial transactions usin
 
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
+- [Architecture & Workflow](#architecture-&-workflow)
 - [Project Structure](#project-structure)
 - [Setup](#setup)
 - [Usage](#usage)
@@ -37,6 +38,10 @@ This project focuses on real-time fraud detection in financial transactions usin
 - Azure Table Storage
 - Azure Functions
 - Django Web App
+
+## Architecture & Workflow
+
+![Architecture](images/fraud_detection_arch.png)
 
 ## Project Structure
 ```
